@@ -1,3 +1,2 @@
-Estrutura_de_dados_1
-
-exercicios resolvidos
+Listas resolvidas.
+Dos assuntos da Disciplina de Estrutura de Dados 1
