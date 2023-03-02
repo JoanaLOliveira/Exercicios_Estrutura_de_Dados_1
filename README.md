@@ -1,1 +1,3 @@
-# atividade_09.02
+Estrutura_de_dados_1
+
+exercicios resolvidos
