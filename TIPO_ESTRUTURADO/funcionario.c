@@ -1,4 +1,4 @@
-/* 1. Crie um tipo estruturado para armazenar dados de um funcionário. Uma estrutura deste tipo possui
+/* Crie um tipo estruturado para armazenar dados de um funcionário. Uma estrutura deste tipo possui
 os seguintes campos: nome, salário, identificador e cargo. 
 a) Escreva uma função que receba como parâmetro o endereço de uma estrutura do tipo Funcionario
 e preencha seus campos com valores fornecidos pelo usuário via teclado.
@@ -60,22 +60,7 @@ int main (){
 	if(empr == NULL){
 		exit (1);
 	}
-	preencher(empr, quant);
-	altera(empr, 0);
+	preencha(empr, quant);
+	atualiz(empr, 0);
 	return 0;
 }
-
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
